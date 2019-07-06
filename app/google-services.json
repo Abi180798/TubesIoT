@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267829335525",
+    "firebase_url": "https://tubesiot-ebb3d.firebaseio.com",
+    "project_id": "tubesiot-ebb3d",
+    "storage_bucket": "tubesiot-ebb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267829335525:android:b17b1caf5202d709",
+        "android_client_info": {
+          "package_name": "com.example.smarttrashcancontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267829335525-uq2j4datkjq22hf0pq2hbe5iic8l9gf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttrashcancontrol",
+            "certificate_hash": "59c62d4fc50bb5ce2a4b050a364ded3c582cccc1"
+          }
+        },
+        {
+          "client_id": "267829335525-p1pmfhoudq972oipv6vv5n34jpgflnc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4178uA3IatYk8Cpm8K-89548e2ilKUNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267829335525-p1pmfhoudq972oipv6vv5n34jpgflnc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
